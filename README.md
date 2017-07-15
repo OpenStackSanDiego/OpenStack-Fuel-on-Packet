@@ -11,7 +11,7 @@ Starting up an OpenStack private cloud can be difficult from getting all the nec
 |OpenStack Controllers, Compute-1, Compute-2, Compute-3... |
 |  Fuel-master VM, Fuel-slave-1 VM, slave -2 VM, slave -3, VM | 
 |                  VirtualBox Hypervisor                            |
-|     Bare Metal Server 3GB, 120TB, 4 core Xeon (CentOS 7)          |
+|     Bare Metal Server 32GB, 120TB, 4 core Xeon (CentOS 7)          |
 
 
 
